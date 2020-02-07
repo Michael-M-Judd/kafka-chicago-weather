@@ -1,0 +1,19 @@
+{
+  "name": "turnstile.value",
+  "namespace": "org.chicago",
+  "type": "record",
+  "fields": [
+    {
+      "name": "station_id",
+      "type": "int"
+    },
+    {
+      "name": "station_name",
+      "type": "string"
+    },
+    {
+      "name": "line",
+      "type": "string"
+    }
+  ]
+}
